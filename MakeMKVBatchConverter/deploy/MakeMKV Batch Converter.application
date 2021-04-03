@@ -8,7 +8,7 @@
         <beforeApplicationStartup />
       </update>
     </subscription>
-    <deploymentProvider codebase="https://alexgritton.github.io/MakeMKVBatchConverter/deploy/MakeMKV%20Batch%20Converter.application" />
+    <deploymentProvider codebase="https://kofal.github.io/MakeMKVBatchConverter/MakeMKVBatchConverter/deploy/MakeMKV%20Batch%20Converter.application" />
   </deployment>
   <compatibleFrameworks xmlns="urn:schemas-microsoft-com:clickonce.v2">
     <framework targetVersion="4.5" profile="Full" supportedRuntime="4.0.30319" />
